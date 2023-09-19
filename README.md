@@ -7,12 +7,12 @@ I have 10 years of professional work experience in R&D & IT in Publications sect
 
 Skills: HTML | CSS | BOOTSTRAP | Tailwind CSS | JS | REACTJS | ExpressJS | NodeJS | MongoDB | MySQL
 
-- 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning Javascript / ReactJS 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with Internship Job 
-- 💬 Ask me about Web Development | IT | Video & Audio Editing | Team Building 
-- 📫 How to reach me: Facebook | Linkedin | github | Youtube 
+- I’m currently working on Youtube 
+- I’m currently learning Javascript / ReactJS 
+- I’m looking to collaborate on github 
+- I’m looking for help with Internship Job 
+- Ask me about Web Development | IT | Video & Audio Editing | Team Building 
+- How to reach me: Facebook | Linkedin | github | Youtube 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/helalkhandev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/helalkhandev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/helal.khan.923)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@TechTutorHelalKhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.helal-khan.xyz/)  
