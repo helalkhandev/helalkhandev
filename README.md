@@ -6,7 +6,7 @@
 I have 10 years of professional work experience in R&D & IT in Publications sector. Now I am moving to web development sector. Ex Intern as Web Developer at DIPTI. I have good experience with (HTML, CSS, and JS). Now I am learning MERN stack. I am passionate about my profession and new technologies in general. Especially I am more skilled and interested in website development. I want to pursue a career in web development as a web designer and web developer.
 
 Skills: HTML | CSS | BOOTSTRAP | Tailwind CSS | JS | REACTJS | ExpressJS | NodeJS | MongoDB | MySQL
-Others Professional Skill : Adobe Illustrator | Adobe Photoshop | MS-Office | Adobe Premier Pro | Adobe Audition | Figma | UI/UX Design
+- Others Professional Skill : Adobe Illustrator | Adobe Photoshop | MS-Office | Adobe Premier Pro | Adobe Audition | Figma | UI/UX Design
 
 - I’m currently working on Youtube 
 - I’m currently learning Javascript / ReactJS 
