@@ -1,4 +1,6 @@
-![Web Developer (MERN Stack) | IT Specialist | Video Editor](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/356896724_6394575190630489_3565100818680408385_n.png?stp=dst-png_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeFw37N5aEBeNA5MnfqF1lei5ol1HNu7TJPmiXUc27tMk_IyCisbLqL3GXJehb46kKhwcs8qRAz8cm-o00rvslio&_nc_ohc=zpFAtQOnJO8AX_P67Az&_nc_ht=scontent.fdac140-1.fna&oh=00_AfDQXORNZCOeEATh3Xldh-Sc1vFIlwntpeABblPNMNkaFg&oe=650E76AC)
+![Web Developer (MERN Stack) | IT Specialist | Video Editor](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/381122088_6662040837217255_872396926909354313_n.png?stp=dst-png_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeGer2Ckq9wejkRNXamj5XsDzXx3_iNUEC7NfHf-I1QQLl7vaouQdmoxtcK4_j61tXLmP2W1YKJy4dfa6DQdaOx3&_nc_ohc=kNE3WPl6sjoAX9nq-4F&_nc_oc=AQmkEHqyZFXhR_2DkusPoGg1G6IvA4TiACm92hCrcMZ7o0SIQxf7r0rUk-A06WlqqOU&_nc_ht=scontent.fdac140-1.fna&oh=00_AfAgSGBZ9vlUEKR4VV5ER6tI20MiIpnpgTBSc_mx_gnWuw&oe=6516BEE3)
+
+
 
 ### I'm Helal Khan
 #### Web Developer (MERN Stack) | IT Specialist | Video Editor
