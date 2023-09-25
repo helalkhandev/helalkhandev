@@ -10,11 +10,11 @@ I have 10 years of professional work experience in R&D & IT in Publications sect
 Skills: HTML | CSS | BOOTSTRAP | Tailwind CSS | JS | REACTJS | ExpressJS | NodeJS | MongoDB | MySQL  
 Others Professional Skill : Adobe Illustrator | Adobe Photoshop | MS-Office | Adobe Premier Pro | Adobe Audition | Figma | UI/UX Design
 
-- I’m currently working on Youtube 
+- I’m currently working as a local client (IT Support, Digital Marketing & Social Media Support, Add Video Making, Web Development)
 - I’m currently learning Javascript / ReactJS 
 - I’m looking to collaborate on github 
-- I’m looking for help with Internship Job 
-- Ask me about Web Development | IT | Video & Audio Editing | Team Building 
+- I’m looking for help with Internship Job as a Front End Developement with ReactJS
+- Ask me about Web Development | IT Support | Digital Marketing & Social Media Support | Video & Audio Editing | Team Building 
 - How to reach me: Facebook | Linkedin | github | Youtube 
 
 
