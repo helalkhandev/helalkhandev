@@ -1,4 +1,4 @@
-![Web Developer (MERN Stack) | IT Specialist | Video Editor](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/381122088_6662040837217255_872396926909354313_n.png?stp=dst-png_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeGer2Ckq9wejkRNXamj5XsDzXx3_iNUEC7NfHf-I1QQLl7vaouQdmoxtcK4_j61tXLmP2W1YKJy4dfa6DQdaOx3&_nc_ohc=kNE3WPl6sjoAX9nq-4F&_nc_oc=AQmkEHqyZFXhR_2DkusPoGg1G6IvA4TiACm92hCrcMZ7o0SIQxf7r0rUk-A06WlqqOU&_nc_ht=scontent.fdac140-1.fna&oh=00_AfAgSGBZ9vlUEKR4VV5ER6tI20MiIpnpgTBSc_mx_gnWuw&oe=6516BEE3)
+![Web Developer (MERN Stack) | IT Specialist | Video Editor](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/381122088_6662040837217255_872396926909354313_n.png?_nc_cat=103&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeGer2Ckq9wejkRNXamj5XsDzXx3_iNUEC7NfHf-I1QQLl7vaouQdmoxtcK4_j61tXLmP2W1YKJy4dfa6DQdaOx3&_nc_ohc=nSXEcy9MyTEAX_0OMN_&_nc_oc=AQkJI-ooNHKQe6teNkw_PXNr4tV-uLvYrIqTRwgIYMFJwcItaoCpU_43gL-Cn2MECkQ&_nc_ht=scontent.fdac140-1.fna&oh=00_AfDQtWUX9w31dzpTJ7sHCKJpTIWUbbI3E9KvV6sam2H2Hg&oe=652690E3)
 
 
 
