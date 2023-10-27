@@ -5,7 +5,7 @@
 
 
 ### I'm Helal Khan
-#### IT Specialist | Web Developer (ReactJS) | Video Editor | UX/UI | Graphics
+#### IT Specialist | Web Developer (ReactJS) | Video Editor | UX/UI | Graphics 
 
 I have 13 years of professional work experience in R&D & IT in Publications sector. Now I am moving to web development sector. Ex Intern as Web Developer at DIPTI. I have good experience with (HTML, CSS, and JS). Now I am learning MERN stack. I am passionate about my profession and new technologies in general. Especially I am more skilled and interested in website development. I want to pursue a career in web development as a web designer and web developer.
 
