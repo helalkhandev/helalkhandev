@@ -9,11 +9,11 @@
 
 I have 10 years of professional work experience in R&D & IT in Publications sector. I have good experience with WordPress web development and HTML, CSS, Bootstrap & Javascript. Now I am learning php/laravel. I am passionate about my profession and new technologies in general. Especially I am more skilled and interested in website development. I want to pursue a career in web development as a web designer and web developer.
 I have to complete many wordpress website project like : 
-https://waasefaccountancyltd.com/
-https://capitalcollege.ac.bd/
-https://wizarddit.com/
-https://pagemarkbd.com/
-https://www.habbd.com/
+- https://waasefaccountancyltd.com/
+- https://capitalcollege.ac.bd/
+- https://wizarddit.com/
+- https://pagemarkbd.com/
+- https://www.habbd.com/
 
 Skills: HTML | CSS | BOOTSTRAP | Tailwind CSS | JavaScript | Php/Laravel | MySQL  
 Others Professional Skill : Adobe Illustrator | Adobe Photoshop | MS-Office | Adobe Premier Pro | Adobe Audition | Figma | UI/UX Design
