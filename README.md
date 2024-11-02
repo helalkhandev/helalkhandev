@@ -9,14 +9,14 @@
 
 I have 10 years of professional work experience in R&D & IT in Publications sector. I have good experience with WordPress web development and HTML, CSS, Bootstrap & Javascript. Now I am learning php/laravel. I am passionate about my profession and new technologies in general. Especially I am more skilled and interested in website development. I want to pursue a career in web development as a web designer and web developer.
 
-Skills: HTML | CSS | BOOTSTRAP | Tailwind CSS | JS | REACTJS | ExpressJS | NodeJS | MongoDB | MySQL  
+Skills: HTML | CSS | BOOTSTRAP | Tailwind CSS | JavaScript | Php/Laravel | MySQL  
 Others Professional Skill : Adobe Illustrator | Adobe Photoshop | MS-Office | Adobe Premier Pro | Adobe Audition | Figma | UI/UX Design
 
-- I’m currently working as a local client (IT Support, Digital Marketing & Social Media Support, Add Video Making, Web Development)
-- I’m currently learning Javascript / ReactJS 
+- I’m currently working as a local client (Web Development, Digital Marketing & Social Media Support, Add Video Making)
+- I’m currently learning Javascript / php, laravel, React
 - I’m looking to collaborate on github 
-- I’m looking for help with Internship Job as a Front End Developement with ReactJS
-- Ask me about Web Development | IT Support | Digital Marketing & Social Media Support | Video & Audio Editing | Team Building 
+- I’m looking for help with Internship Job as a WordPress Web Developer
+- Ask me about Web Development | SEO | Digital Marketing & Social Media Support | Ads Video Making | Team Management
 - How to reach me: Facebook | Linkedin | github | Youtube 
 
 
