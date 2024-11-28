@@ -38,8 +38,4 @@ Others Professional Skill : Adobe Illustrator | Adobe Photoshop | MS-Office | Ad
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=helalkhandev&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/helalkhandev)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=helalkhandev)  
-
-![Profile views](https://gpvc.arturio.dev/helalkhandev)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=helalkhandev) 
