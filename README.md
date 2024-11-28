@@ -11,7 +11,9 @@ I have 10 years of professional work experience in R&D & IT in Publications sect
 I have to complete many wordpress website project like : 
 - https://waasefaccountancyltd.com/
 - https://capitalcollege.ac.bd/
+- https://bit2skill.com/
 - https://wizarddit.com/
+- https://sangbadsarakhon.com/
 - https://pagemarkbd.com/
 - https://www.habbd.com/
 
